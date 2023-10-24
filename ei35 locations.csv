@@ -1,0 +1,262 @@
+Shortname,Name,Contained and Overlapping Geographies
+GLO,Global,
+RLA,Latin America and the Caribbean,"AG; AI; AR; AW; BB; BL; BO; BQ; BR; BR-AC; BR-AL; BR-AM; BR-AP; BR-BA; BR-CE; BR-DF; BR-ES; BR-GO; BR-MA; BR-MG; BR-Mid-western grid; BR-MS; BR-MT; BR-North-eastern grid; BR-Northern grid; BR-PA; BR-PB; BR-PE; BR-PI; BR-PR; BR-RJ; BR-RN; BR-RO; BR-RR; BR-RS; BR-SC; BR-SE; BR-South-eastern grid; BR-South-eastern/Mid-western grid; BR-Southern grid; BR-SP; BR-TO; BS; BZ; CL; CO; CR; CU; CW; DM; DO; EC; FK; France, including overseas territories; GD; GF; GP; GT; GY; HN; HT; IAI Area, South America; JM; KN; KY; LC; MF; MQ; MS; MX; NAFTA; NI; PA; PE; PY; SR; SV; SX; TC; TT; UN-CAMERICA; UN-CARIBBEAN; UN-SAMERICA; US-PR; UY; VC; VE; VG; VI"
+WEU,Western Europe,"AT; BE; CH; DE; Europe without Austria; Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FR; France, including overseas territories; IAI Area, EU27 & EFTA; LU; NL; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; UCTE without France; UCTE without Germany; UCTE without Germany and France"
+RNA,Northern America,"CA; CA-AB; CA-BC; CA-MB; Canada without Alberta; Canada without Alberta and Quebec; Canada without Quebec; CA-NB; CA-NF; CA-NS; CA-NT; CA-NU; CA-ON; CA-PE; CA-QC; CA-SK; CA-YK; IAI Area, North America; IAI Area, North America, without Quebec; North America without Quebec; NPCC; Quebec, HQ distribution network; US; US-AK; US-AL; US-AR; US-ASCC; US-AZ; US-CA; US-CO; US-CT; US-DC; US-DE; US-FL; US-FRCC; US-GA; US-HI; US-HICC; US-IA; US-ID; US-IL; US-IN; US-KS; US-KY; US-LA; US-MA; US-MD; US-ME; US-MI; US-MN; US-MO; US-MRO; US-MS; US-MT; US-NC; US-ND; US-NE; US-NH; US-NJ; US-NM; US-NPCC; US-NV; US-NY; US-OH; US-OK; US-OR; US-PA; US-RFC; US-RI; US-SC; US-SD; US-SERC; US-SPP; US-TN; US-TRE; US-TX; US-UT; US-VA; US-VT; US-WA; US-WECC; US-WI; US-WV; US-WY; WECC"
+UN-OCEANIA,Oceania,AS; AU; AUS-ACT; AUS-NSW; AUS-NTR; AUS-QNS; AUS-SAS; AUS-TSM; AUS-VCT; AUS-WAS; CK; FJ; FM; GU; KI; MH; MP; NC; NF; NR; NU; NZ; PF; PG; PN; PW; SB; TK; TO; TV; UN-AUSTRALIANZ; UN-MELANESIA; UN-MICRONESIA; UN-POLYNESIA; VU; WS
+RAF,Africa,"AO; BF; BI; BJ; BW; CD; CF; CG; CI; CM; CV; DJ; DZ; EG; EH; ER; ET; France, including overseas territories; GA; GH; GM; GN; GQ; GW; IAI Area, Africa; KE; KM; LR; LS; LY; MA; MG; ML; MR; MU; MW; MZ; NA; NE; NG; RE; RW; SC; SD; SH; SL; SN; SO; Somaliland; SS; ST; TD; TG; TN; TZ; UG; UN-EAFRICA; UN-MAFRICA; UN-NAFRICA; UN-SASIA; UN-WAFRICA; YT; ZA; ZM; ZW"
+IN-TN,"India, Tamil Nadu",
+IN-NL,"India, Nagaland",
+CN-NX,"China, Ningxia",
+CN-HB,"China, Hebei",
+CN-LN,"China, Liaoning ",
+IN-GA,"India, Goa",
+CN-SX,"China, Shanxi ",
+CA-YK,"Canada, Yukon Territory",
+IN-AS,"India, Assam",
+IN-AP,"India, Andhra Pradesh",
+CN-GD,"China, Guangdong ",
+IN-MP,"India, Madhya Pradesh",
+IN-KL,"India, Kerala",
+CN-TJ,"China, Tianjin ",
+CA-NU,"Canada, Nunavut",
+CN-HN,"China, Hunan ",
+IN-PY,"India, Puducherry",
+CN-HE,"China, Henan ",
+IN-TR,"India, Tripura",
+CN-JL,"China, Jilin ",
+IN-ML,"India, Meghalaya",
+IN-PB,"India, Punjab",
+IN-UT,"India, Uttarakhand",
+IN-KA,"India, Karnataka",
+IN-MH,"India, Maharashtra",
+CA-ON,"Canada, Ontario",
+CA-QC,"Canada, Quebec","Quebec, HQ distribution network"
+CN-GZ,"China, Guizhou ",
+CA-NF,"Canada, Newfoundland and Labrador",
+IN-HR,"India, Haryana",
+CN-NM,"China, Inner Mongol ",
+CN-FJ,"China, Fujian ",
+CA-NB,"Canada, New Brunswick",
+IN-GJ,"India, Gujarat",
+IN-OR,"India, Orissa",
+CN-HU,"China, Hubei ",
+IN-HP,"India, Himachal Pradesh",
+IN-BR,"India, Bihar",
+CA-MB,"Canada, Manitoba",
+CN-SD,"China, Shandong ",
+CA-SK,"Canada, Saskatchewan",
+IN-RJ,"India, Rajasthan",
+CN-JX,"China, Jiangxi ",
+CN-XJ,"China, Xinjiang ",
+CN-ZJ,"China, Zhejiang ",
+CN-XZ,"China, Xizang ",
+CA-PE,"Canada, Prince Edward Island",
+IN-CT,"India, Chhattisgarh",
+CA-NS,"Canada, Nova Scotia",
+CN-SH,"China, Shanghai ",
+IN-WB,"India, West Bengal",
+IN-JH,"India, Jharkhand",
+CN-QH,"China, Qinghai ",
+CN-SC,"China, Sichuan ",
+CN-YN,"China, Yunnan ",
+IN-SK,"India, Sikkim",
+CA-BC,"Canada, British Columbia",
+CN-HA,"China, Hainan ",
+CN-HL,"China, Heilongjiang ",
+CN-GS,"China, Gansu ",
+IN-UP,"India, Uttar Pradesh",
+CN-GX,"China, Guangxi ",
+IN-MN,"India, Manipur",
+IN-DL,"India, Delhi",
+IN-JK,"India, Jammu and Kashmir",
+CN-BJ,"China, Beijing ",
+IN-AR,"India, Arunachal Pradesh",
+CN-JS,"China, Jiangsu ",
+CN-CQ,"China, Chongqing ",
+CN-SA,"China, Shaanxi ",
+CA-NT,"Canada, Northwest Territories",
+CN-AH,"China, Anhui ",
+CA-AB,"Canada, Alberta",
+XK,Kosovo,
+TW,"Taiwan, Province of China",
+US-RFC,ReliabilityFirst Corporation,US-DC; US-DE; US-IL; US-IN; US-KY; US-MD; US-MI; US-NJ; US-OH; US-PA; US-VA; US-WV
+US-SERC,SERC Reliability Corporation,US-AL; US-AR; US-FL; US-GA; US-IL; US-KY; US-LA; US-MO; US-MS; US-NC; US-SC; US-TN; US-TX; US-VA
+US-TRE,Texas Regional Entity,
+IN-Western grid,"India, Western grid",IN-CT; IN-DD; IN-DN; IN-GA; IN-GJ; IN-MH; IN-MP
+US-WECC,"Western Electricity Coordinating Council, US part only",US-AZ; US-CA; US-CO; US-ID; US-MT; US-NE; US-NM; US-NV; US-OR; US-SD; US-TX; US-UT; US-WA; US-WY
+US-SPP,Southwest Power Pool,US-AR; US-KS; US-LA; US-MO; US-NM; US-OK; US-TX
+CENTREL,Central European Power Association,"CZ; HU; IAI Area, EU27 & EFTA; PL; SK"
+US-NPCC,"Northeast Power Coordinating Council, US part only",US-CT; US-MA; US-ME; US-NH; US-NY; US-RI; US-VT
+US-ASCC,"United States of America, Alaska Systems Coordinating Council",
+IN-Southern grid,"India, Southern grid",IN-AP; IN-KA; IN-KL; IN-PY; IN-TN
+IN-Northern grid,"India, Northern grid",IN-CH; IN-DL; IN-HP; IN-HR; IN-JK; IN-PB; IN-RJ; IN-UP; IN-UT
+US-HICC,HICC,US-HI
+IN-North-eastern grid,"India, North-eastern grid",IN-AR; IN-AS; IN-ML; IN-MN; IN-MZ; IN-NL; IN-TR
+US-MRO,"Midwest Reliability Organization, US part only",US-IA; US-IL; US-MN; US-MT; US-ND; US-NE; US-SD; US-WI
+WECC,Western Electricity Coordinating Council,CA; CA-AB; CA-BC; Canada without Alberta; Canada without Alberta and Quebec; Canada without Quebec; US; US-AZ; US-CA; US-CO; US-ID; US-MT; US-NE; US-NM; US-NV; US-OR; US-SD; US-TX; US-UT; US-WA; US-WECC; US-WY
+NORDEL,Nordic Countries Power Association,"BV; DK; FI; IAI Area, EU27 & EFTA; NO; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; SE; SJ"
+CN-SGCC,State Grid Corporation of China,China w/o Inner Mongol; CN-AH; CN-BJ; CN-CCG; CN-CQ; CN-ECGC; CN-FJ; CN-GS; CN-HB; CN-HE; CN-HL; CN-HN; CN-HU; CN-JL; CN-JS; CN-JX; CN-LN; CN-NCGC; CN-NECG; CN-NM; CN-NWG; CN-NX; CN-QH; CN-SA; CN-SC; CN-SD; CN-SH; CN-SWG; CN-SX; CN-TJ; CN-XJ; CN-XZ; CN-ZJ
+IN-Eastern grid,"India, Eastern grid",IN-BR; IN-JH; IN-OR; IN-SK; IN-WB
+UCTE without Germany,UCTE without Germany,"AD; AT; BA; BE; BG; Canary Islands; CENTREL; CH; CS; CZ; DK; ES; Europe without Austria; Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FR; France, including overseas territories; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IT; LU; ME; MK; NL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RO; RS; SI; SK; UCTE without France; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+ENTSO-E,European Network of Transmission Systems Operators for Electricity,"AD; AT; AX; BA; BALTSO; BE; BG; BV; Canary Islands; CENTREL; CH; CS; CZ; DE; DK; EE; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FI; FR; France, including overseas territories; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; ME; MK; MT; NL; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RO; RS; SE; SI; SJ; SK; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+US-FRCC,Florida Reliability Coordinating Council,
+UCTE,Union for the Co-ordination of Transmission of Electricity ,"AD; AT; BA; BE; BG; Canary Islands; CENTREL; CH; CS; CZ; DE; DK; ES; Europe without Austria; Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FR; France, including overseas territories; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IT; LU; ME; MK; NL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RO; RS; SI; SK; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+CN-CSG,China Southern Power Grid,CN-GD; CN-GX; CN-GZ; CN-HA; CN-YN
+RME,Middle East,"AE; IAI Area, Asia, without China and GCC; IAI Area, Gulf Cooperation Council; IQ; IR; KW; SA; SAS"
+RAS,Asia,"AE; AF; Akrotiri; AM; Asia without China; AZ; BD; BH; BN; BT; Central Asia; China w/o Inner Mongol; CN; CN-AH; CN-BJ; CN-CCG; CN-CQ; CN-CSG; CN-ECGC; CN-FJ; CN-GD; CN-GS; CN-GX; CN-GZ; CN-HA; CN-HB; CN-HE; CN-HL; CN-HN; CN-HU; CN-JL; CN-JS; CN-JX; CN-LN; CN-NCGC; CN-NECG; CN-NM; CN-NWG; CN-NX; CN-QH; CN-SA; CN-SC; CN-SD; CN-SGCC; CN-SH; CN-SWG; CN-SX; CN-TJ; CN-XJ; CN-XZ; CN-YN; CN-ZJ; CY; Cyprus No Mans Area; Dhekelia Base; FSU; GE; HK; IAI Area, Asia, without China and GCC; IAI Area, Gulf Cooperation Council; IAI Area, Russia & RER w/o EU27 & EFTA; ID; IL; IN; IN-AN; IN-AP; IN-AR; IN-AS; IN-BR; IN-CH; IN-CT; IN-DD; IN-DL; IN-DN; IN-Eastern grid; IN-GA; IN-GJ; IN-HP; IN-HR; IN-Islands; IN-JH; IN-JK; IN-KA; IN-KL; IN-LD; IN-MH; IN-ML; IN-MN; IN-MP; IN-MZ; IN-NL; IN-North-eastern grid; IN-Northern grid; IN-OR; IN-PB; IN-PY; IN-RJ; IN-SK; IN-Southern grid; IN-TN; IN-TR; IN-UP; IN-UT; IN-WB; IN-Western grid; IQ; IR; JO; JP; KG; KH; KP; KR; KW; KZ; LA; LB; LK; MM; MN; MO; MV; MY; Northern Cyprus; NP; OM; PH; PK; PS; QA; RME; RU; Russia (Asia); SA; SAS; SG; Siachen Glacier; SY; TH; TJ; TL; TM; TR; TW; UN-ASIA; UN-EASIA; UN-EEUROPE; UN-EUROPE; UN-SEASIA; UN-WASIA; UZ; VN; YE"
+RER,Europe,"AD; AL; AT; AX; BA; BALTSO; BE; BG; BV; BY; Canary Islands; CENTREL; CH; CS; CZ; DE; DK; EE; ENTSO-E; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; Europe, without Russia and Turkey; FI; FR; France, including overseas territories; FSU; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; MD; ME; MK; MT; NL; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RER w/o RU; RO; RS; RU; Russia (Europe); SE; SI; SJ; SK; UA; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+RoW,Rest-of-World,
+RER w/o DE+NL+RU,"Europe without Germany, the Netherlands, and Russia","AD; AL; AT; AX; BA; BALTSO; BE; BG; BV; BY; Canary Islands; CENTREL; CH; CS; CZ; DK; EE; ENTSO-E; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FI; FR; France, including overseas territories; FSU; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; MD; ME; MK; MT; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RO; RS; SE; SI; SJ; SK; UA; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+RER w/o CH+DE,Europe without Germany and Switzerland,"AD; AL; AT; AX; BA; BALTSO; BE; BG; BV; BY; Canary Islands; CENTREL; CS; CZ; DK; EE; ENTSO-E; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland and Austria; Europe without Switzerland and France; Europe, without Russia and Turkey; FI; FR; France, including overseas territories; FSU; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; MD; ME; MK; MT; NL; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RER w/o RU; RO; RS; RU; Russia (Europe); SE; SI; SJ; SK; UA; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+Europe without Switzerland,Europe without Switzerland,"AD; AL; AT; AX; BA; BALTSO; BE; BG; BV; BY; Canary Islands; CENTREL; CS; CZ; DE; DK; EE; ENTSO-E; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland and Austria; Europe without Switzerland and France; Europe, without Russia and Turkey; FI; FR; France, including overseas territories; FSU; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; MD; ME; MK; MT; NL; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RER w/o RU; RO; RS; RU; Russia (Europe); SE; SI; SJ; SK; UA; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+"Europe, without Russia and Turkey","Europe, without Russia and Turkey","AD; AL; AT; AX; BA; BALTSO; BE; BG; BV; BY; Canary Islands; CENTREL; CH; CS; CZ; DE; DK; EE; ENTSO-E; ES; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; FI; FR; France, including overseas territories; FSU; GB; GG; GI; GR; HR; HU; IAI Area, EU27 & EFTA; IAI Area, Russia & RER w/o EU27 & EFTA; IE; IM; IS; IT; JE; LT; LU; LV; MD; ME; MK; MT; NL; NO; NORDEL; PL; PT; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RO; RS; SE; SI; SJ; SK; UA; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU; XK"
+Canada without Quebec,Canada without Quebec,CA-AB; CA-BC; CA-MB; Canada without Alberta; Canada without Alberta and Quebec; CA-NB; CA-NF; CA-NS; CA-NT; CA-NU; CA-ON; CA-PE; CA-SK; CA-YK; NPCC; WECC
+TN,Tunisia,
+BG,Bulgaria,
+GI,Gibraltar,
+RS,Serbia,
+TR,Turkey,
+TG,Togo,
+TJ,Tajikistan,
+KP,"Korea, Democratic People's Republic of",
+AU,Australia,AUS-ACT; AUS-NSW; AUS-NTR; AUS-QNS; AUS-SAS; AUS-TSM; AUS-VCT; AUS-WAS
+JP,Japan,
+PL,Poland,
+JO,Jordan,
+ME,Montenegro,
+UA,Ukraine,
+PH,Philippines,
+LU,Luxembourg,
+MN,Mongolia,
+NL,Netherlands,
+ID,Indonesia,
+PT,Portugal,
+HU,Hungary,
+CR,Costa Rica,
+PG,Papua New Guinea,
+AZ,Azerbaijan,
+KG,Kyrgyzstan,
+ZW,Zimbabwe,
+SS,South Sudan,
+IR,Iran (Islamic Republic of),
+BA,Bosnia and Herzegovina,
+EC,Ecuador,
+BR,Brazil,BR-AC; BR-AL; BR-AM; BR-AP; BR-BA; BR-CE; BR-DF; BR-ES; BR-GO; BR-MA; BR-MG; BR-Mid-western grid; BR-MS; BR-MT; BR-North-eastern grid; BR-Northern grid; BR-PA; BR-PB; BR-PE; BR-PI; BR-PR; BR-RJ; BR-RN; BR-RO; BR-RR; BR-RS; BR-SC; BR-SE; BR-South-eastern grid; BR-South-eastern/Mid-western grid; BR-Southern grid; BR-SP; BR-TO
+HK,Hong Kong,
+AM,Armenia,
+DE,Germany,
+FR,France,
+LY,Libya,
+KR,"Korea, Republic of",
+YE,Yemen,
+BY,Belarus,
+ZM,Zambia,
+BH,Bahrain,
+NE,Niger,
+ZA,South Africa,
+OM,Oman,
+SG,Singapore,
+TM,Turkmenistan,
+CU,Cuba,
+BE,Belgium,
+CW,Curacao,
+AE,United Arab Emirates,
+SK,Slovakia,
+LB,Lebanon,
+GR,Greece,
+CD,"Congo, Democratic Republic of the",
+MD,"Moldova, Republic of",
+CA,Canada,"CA-AB; CA-BC; CA-MB; Canada without Alberta; Canada without Alberta and Quebec; Canada without Quebec; CA-NB; CA-NF; CA-NS; CA-NT; CA-NU; CA-ON; CA-PE; CA-QC; CA-SK; CA-YK; IAI Area, North America, without Quebec; North America without Quebec; NPCC; Quebec, HQ distribution network; WECC"
+SI,Slovenia,
+MG,Madagascar,
+IL,Israel,
+PE,Peru,
+MZ,Mozambique,
+CY,Cyprus,
+TZ,"Tanzania, United Republic Of",
+BW,Botswana,
+KH,Cambodia,
+JM,Jamaica,
+CI,Cote d'Ivoire,
+MX,Mexico,
+IN,India,IN-AN; IN-AP; IN-AR; IN-AS; IN-BR; IN-CH; IN-CT; IN-DD; IN-DL; IN-DN; IN-Eastern grid; IN-GA; IN-GJ; IN-HP; IN-HR; IN-Islands; IN-JH; IN-JK; IN-KA; IN-KL; IN-LD; IN-MH; IN-ML; IN-MN; IN-MP; IN-MZ; IN-NL; IN-North-eastern grid; IN-Northern grid; IN-OR; IN-PB; IN-PY; IN-RJ; IN-SK; IN-Southern grid; IN-TN; IN-TR; IN-UP; IN-UT; IN-WB; IN-Western grid
+KZ,Kazakhstan,
+HN,Honduras,
+ET,Ethiopia,
+MA,Morocco,
+CL,Chile,
+GB,United Kingdom,
+IQ,Iraq,
+AO,Angola,
+BJ,Benin,
+NZ,New Zealand,TK
+TH,Thailand,
+DO,Dominican Republic,
+PA,Panama,
+IT,Italy,
+VN,Viet Nam,
+SE,Sweden,
+MT,Malta,
+FI,Finland,
+CM,Cameroon,
+IS,Iceland,
+GH,Ghana,
+QA,Qatar,
+LT,Lithuania,
+SN,Senegal,
+NP,Nepal,
+GE,Georgia,
+HT,Haiti,
+AT,Austria,
+DK,Denmark,Europe without NORDEL (NCPA); NORDEL; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France
+SD,Sudan,
+,Namibia,
+TT,Trinidad and Tobago,
+GT,Guatemala,
+AR,Argentina,
+LK,Sri Lanka,
+NI,Nicaragua,
+SY,Syrian Arab Republic,
+CH,Switzerland,
+SV,El Salvador,
+MM,Myanmar,
+AL,Albania,
+ES,Spain,Canary Islands
+DZ,Algeria,
+BD,Bangladesh,
+EE,Estonia,
+RO,Romania,
+NG,Nigeria,
+CN,China,China w/o Inner Mongol; CN-AH; CN-BJ; CN-CCG; CN-CQ; CN-CSG; CN-ECGC; CN-FJ; CN-GD; CN-GS; CN-GX; CN-GZ; CN-HA; CN-HB; CN-HE; CN-HL; CN-HN; CN-HU; CN-JL; CN-JS; CN-JX; CN-LN; CN-NCGC; CN-NECG; CN-NM; CN-NWG; CN-NX; CN-QH; CN-SA; CN-SC; CN-SD; CN-SGCC; CN-SH; CN-SWG; CN-SX; CN-TJ; CN-XJ; CN-XZ; CN-YN; CN-ZJ
+CG,Congo,
+NO,Norway,BV; SJ
+MK,North Macedonia,
+IE,Ireland,
+LV,Latvia,
+SA,Saudi Arabia,
+KE,Kenya,
+EG,Egypt,
+BO,"Bolivia, Plurinational State of",
+VE,Venezuela,
+UY,Uruguay,
+HR,Croatia,
+CO,Colombia,
+GA,Gabon,
+US,United States,NPCC; US-AK; US-AL; US-AR; US-ASCC; US-AZ; US-CA; US-CO; US-CT; US-DC; US-DE; US-FL; US-FRCC; US-GA; US-HI; US-HICC; US-IA; US-ID; US-IL; US-IN; US-KS; US-KY; US-LA; US-MA; US-MD; US-ME; US-MI; US-MN; US-MO; US-MRO; US-MS; US-MT; US-NC; US-ND; US-NE; US-NH; US-NJ; US-NM; US-NPCC; US-NV; US-NY; US-OH; US-OK; US-OR; US-PA; US-RFC; US-RI; US-SC; US-SD; US-SERC; US-SPP; US-TN; US-TRE; US-TX; US-UT; US-VA; US-VT; US-WA; US-WECC; US-WI; US-WV; US-WY; WECC
+BN,Brunei Darussalam,
+UZ,Uzbekistan,
+MY,Malaysia,
+MU,Mauritius,
+PK,Pakistan,
+KW,Kuwait,
+ER,Eritrea,
+RU,Russia,Asia without China; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; RAS; RER; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; Russia (Asia); Russia (Europe)
+CZ,Czechia,
+PY,Paraguay,
+"IAI Area, South America","IAI Area, South America",AR; BR; BR-AC; BR-AL; BR-AM; BR-AP; BR-BA; BR-CE; BR-DF; BR-ES; BR-GO; BR-MA; BR-MG; BR-Mid-western grid; BR-MS; BR-MT; BR-North-eastern grid; BR-Northern grid; BR-PA; BR-PB; BR-PE; BR-PI; BR-PR; BR-RJ; BR-RN; BR-RO; BR-RR; BR-RS; BR-SC; BR-SE; BR-South-eastern grid; BR-South-eastern/Mid-western grid; BR-Southern grid; BR-SP; BR-TO; VE
+"IAI Area, Africa","IAI Area, Africa",CM; EG; GH; MZ; NG; UN-EAFRICA; UN-MAFRICA; UN-NAFRICA; UN-SASIA; UN-WAFRICA; ZA
+"IAI Area, Russia & RER w/o EU27 & EFTA","IAI Area, Russia & Europe outside EU27 & EFTA","Asia without China; BA; CS; ENTSO-E; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe without Switzerland and France; Europe, without Russia and Turkey; FSU; ME; RAS; RER; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RER w/o RU; RU; Russia (Asia); Russia (Europe); UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-SEUROPE"
+"IAI Area, Asia, without China and GCC","IAI Area, Asia, without China and GCC",AZ; Central Asia; FSU; ID; IN; IN-AN; IN-AP; IN-AR; IN-AS; IN-BR; IN-CH; IN-CT; IN-DD; IN-DL; IN-DN; IN-Eastern grid; IN-GA; IN-GJ; IN-HP; IN-HR; IN-Islands; IN-JH; IN-JK; IN-KA; IN-KL; IN-LD; IN-MH; IN-ML; IN-MN; IN-MP; IN-MZ; IN-NL; IN-North-eastern grid; IN-Northern grid; IN-OR; IN-PB; IN-PY; IN-RJ; IN-SK; IN-Southern grid; IN-TN; IN-TR; IN-UP; IN-UT; IN-WB; IN-Western grid; IR; JP; KP; KZ; RME; SAS; Siachen Glacier; TJ; TR; UN-EASIA; UN-SEASIA; UN-WASIA
+"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA","BV; Canary Islands; CENTREL; DE; ES; Europe without NORDEL (NCPA); Europe without Switzerland and France; FR; France, including overseas territories; GB; GR; IS; IT; NL; NO; NORDEL; RER w/o AT+BE+CH+DE+FR+IT; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RO; SE; SI; SJ; SK; UCTE; UCTE without France; UCTE without Germany; UCTE without Germany and France; UN-EEUROPE; UN-NEUROPE; UN-SEUROPE; WEU"
+"IAI Area, Gulf Cooperation Council","IAI Area, Gulf Cooperation Council",AE; BH; OM; QA; RME
