@@ -337,19 +337,22 @@ lcia_method = raw_data_df.loc['LCIA method', 1]
 
 # get impact category list
 imp_cat = []
-for j in range(raw_data_df.shape[1]):
-    imp_cat.append(raw_data_df.loc['impact category', j+1])
-
 all_methods = list(methods)
-
 my_method = [['skip']] 
 
-# find the method
-for md, key in methods.items():
-    if md[0] == lcia_method:
-        for j in imp_cat:
-            if md[1] == j:
-                my_method.append([key['unit']]+list(md))
+if pd.isna(raw_data_df.loc['impact category', 1]) == True:
+    for md, key in methods.items():
+        if md[0] == lcia_method:
+            my_method.append([key['unit']]+list(md))
+else:
+    for j in range(raw_data_df.shape[1]):
+        imp_cat.append(raw_data_df.loc['impact category', j+1])
+    # find the method
+    for md, key in methods.items():
+        if md[0] == lcia_method:
+            for j in imp_cat:
+                if md[1] == j:
+                    my_method.append([key['unit']]+list(md))
 
 # method sheet
 my_method_df = pd.DataFrame(my_method)
