@@ -16,6 +16,7 @@ def lca_calc(md, fu):
     ser = pd.Series(impact_results, index=impact_categories)
     return ser
 
+
 projects.set_current(utils_config.project_name)
 
 imp = ExcelImporter(utils_config.input_file_path)
@@ -43,6 +44,7 @@ for i in range(my_method.shape[0]):
     md_unit.append(my_method.iloc[i, 0])
 
 result_dict = {'unit': md_unit}
+MC_result = {}
 for i in imp.data:
     functional_unit = {(i['database'], i['code']): 1}
     en_imp = lca_calc(my_method_list, functional_unit)
@@ -60,6 +62,7 @@ for i in range(dis.shape[0]):
                 en_imp = lca_calc(my_method_list, functional_unit)
                 a = 'distribution by ' + dis.iloc[i][8]
                 result_dict.update({a: en_imp})
+               
 
 result_df = pd.DataFrame(result_dict)
 result_df_transposed = result_df.T
