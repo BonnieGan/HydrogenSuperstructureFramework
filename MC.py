@@ -4,7 +4,6 @@ import pandas as pd
 import stats_arrays
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import time
 import utils_config
 import os
 
